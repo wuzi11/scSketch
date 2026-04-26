@@ -31,6 +31,9 @@ Training and testing use AnnData (.h5ad) files with at least:
 
 Control datasets should have matching gene order and compatible cell metadata.
 
+## Dataset
+- Perturbation dataset: [placeholder-link](https://drive.google.com/drive/folders/1YUFf0OY_1NuOC4J18_79YtGw5RHjwsXu?usp=drive_link)
+
 ## Quick start
 ### 1) Train
 Run training with required paths and a log directory:
