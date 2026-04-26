@@ -1,5 +1,4 @@
 # scSketch
-![Main figure](graphical_abstract.png)
 
 **scSketch** is a structure-aware, perturbation-conditioned diffusion model for predicting single-cell gene expression responses to unseen drug perturbations. It integrates gene-level modeling with pathway-level biological structure, enabling more consistent and biologically meaningful generation.
 
