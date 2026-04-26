@@ -1,4 +1,5 @@
 # scSketch
+![Main figure](https://ibb.co/Hf0yHm8M)
 
 **scSketch** is a structure-aware, perturbation-conditioned diffusion model for predicting single-cell gene expression responses to unseen drug perturbations. It integrates gene-level modeling with pathway-level biological structure, enabling more consistent and biologically meaningful generation.
 
@@ -32,7 +33,7 @@ Training and testing use AnnData (.h5ad) files with at least:
 Control datasets should have matching gene order and compatible cell metadata.
 
 ## Dataset
-- Perturbation dataset: [placeholder-link](https://drive.google.com/drive/folders/1YUFf0OY_1NuOC4J18_79YtGw5RHjwsXu?usp=drive_link)
+- Perturbation dataset: [dataset-link](https://drive.google.com/drive/folders/1YUFf0OY_1NuOC4J18_79YtGw5RHjwsXu?usp=drive_link)
 
 ## Quick start
 ### 1) Train
